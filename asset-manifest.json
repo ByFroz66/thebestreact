@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thebestreact/static/css/main.073c9b0a.css",
+    "main.js": "/thebestreact/static/js/main.efc77001.js",
+    "static/js/787.cc4e593a.chunk.js": "/thebestreact/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/thebestreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thebestreact/index.html",
+    "main.073c9b0a.css.map": "/thebestreact/static/css/main.073c9b0a.css.map",
+    "main.efc77001.js.map": "/thebestreact/static/js/main.efc77001.js.map",
+    "787.cc4e593a.chunk.js.map": "/thebestreact/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.efc77001.js"
+  ]
+}
